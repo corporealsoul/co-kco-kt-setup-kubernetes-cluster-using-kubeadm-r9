@@ -59,8 +59,6 @@
 
 **Remove any previous Go installation,**
 
-`[anup@rhel-92-04 ~]$ sudo mkdir /home/anup/go`
-
 `[anup@rhel-92-04 ~]$ rm -rf /home/anup/go && tar -C /home/anup -xzf go1.20.5.linux-amd64.tar.gz`
 
 <br>
